@@ -1,0 +1,107 @@
+[33mcommit 1e21f8e26afd8131434bfe9ee1a4087bbe88797c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Mon Apr 5 11:00:12 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit 2bf55f0fad1483e9a4e5626672b7f8fc05de3901[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Mon Apr 5 08:09:20 2021 +0100
+
+    Set DEBUG=False for Heroku.
+
+[33mcommit 81fa79e909e4002cf11f2567004cbcaa52f70963[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Mon Apr 5 07:20:56 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit 189f785de4015912e916a690a1be125412b15311[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Mon Apr 5 04:43:03 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit 8d9ad9484d1b3842041d148098f9f7f68e03ccd0[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Mon Apr 5 03:33:53 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit 04660d59fabd852ca572c57b3dfe25c284aa805e[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Mon Apr 5 02:57:01 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit cc4d0a821b41fbb472f07b5037d49bc66f1a0d82[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Mon Apr 5 02:28:07 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit 4f7d0b4e5ee56f415edfa40935acdbb5b9baa413[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Sat Apr 3 10:09:19 2021 +0100
+
+    Added custom 404 and 500 error pages.
+
+[33mcommit daed5866d7d2b531b012d93151376e26626a5b95[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Sat Apr 3 09:54:09 2021 +0100
+
+    Set DEBUG=False for Heroku.
+
+[33mcommit e1e6a47971baffa4fde294b5966edc183a4b540e[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Sat Apr 3 08:25:44 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit 878e5801dc7272494bcdddc75fd1fb6f03a93a8e[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Sat Apr 3 07:15:59 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit d77b0f0ad97add1d456d9890dad97883848f2fc1[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Sat Apr 3 04:14:08 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit ae3cb8c8a9a9694d0dde544c5e12b351274c5a28[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Sat Apr 3 03:53:32 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit d822b6a5fa2c514e3d662da0949331df480fda14[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Sat Apr 3 03:49:30 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit 7cc3ac504d079c94ef8f5879a0343a94ae2d558d[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Sat Apr 3 03:31:25 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit 0cd8d7171e056ceb9d7d5a56a2ccd46dbe79a096[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Sat Apr 3 03:23:28 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit b2984fe7f5bc7ad4bc6ec766d783adaf11df6f17[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Sat Apr 3 03:14:27 2021 +0100
+
+    Ready for deployment to heroku
+
+[33mcommit 552a1b77924346d31d6813800ef0fe1269d6fc59[m
+Author: Ifeoluwa <kingsolomonodewale@gmail.com>
+Date:   Sat Apr 3 02:14:03 2021 +0100
+
+    Ready for deployment to heroku.
